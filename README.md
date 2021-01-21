@@ -3,7 +3,7 @@ we are going to play with Twitter data.
 
 The data is represented as rows of of JSON strings. It consists of tweets, messages, and a small amount of broken data (cannot be parsed as JSON).
 
-For this homework, we will only focus on tweets and ignore all other messages.
+we will only focus on tweets and ignore all other messages.
 
 Tweets
 A tweet consists of many data fields. Here is an example. You can learn all about them in the Twitter API doc. We are going to briefly introduce only the data fields that will be used in this homework.
